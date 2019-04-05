@@ -8,7 +8,7 @@ This is for testing various levels of headlines.
 #### go 4
 
 
-This is for testing bullet points.
+### This is for testing bullet points.
 
 - I don't know what to say. Oh there must be a a space before what I actually want to display
 - relly don't know
@@ -17,10 +17,10 @@ This is for testing bullet points.
 2. test for 2
 
 
-This is for testing citation.
+### This is for testing citation.
 >山一程，水一程，风雪再一程——no space needed. space stands for a space
 
-This is for testing fonts.
+### This is for testing fonts.
 
 斜体
 
@@ -29,3 +29,17 @@ This is for testing fonts.
 粗体
 
 **山一程**，水一程
+
+### This is for testing code
+
+#### single line 
+`Hello World`
+
+#### mulitiple lines
+```
+print("Hello World")
+define p
+for p<101:
+    sum i=i+1
+end 
+```
