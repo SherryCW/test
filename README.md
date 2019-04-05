@@ -33,7 +33,7 @@ This is for testing various levels of headlines.
 ### This is for testing code
 
 #### single line 
-` print("Hello World") `
+` print("Hello World") `——with or without spaces do not matter
 
 #### mulitiple lines
 ```
