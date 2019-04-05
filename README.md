@@ -7,12 +7,6 @@ This is for testing various levels of headlines.
 ### and three
 #### go 4  
 
-
-
-
-
-
-
 ### This is for testing bullet points.
 
 - I don't know what to say. Oh there must be a a space before what I actually want to display
