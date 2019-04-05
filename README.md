@@ -1,7 +1,7 @@
 # test
-this is for personal testing only
+this doc is for personal testing only
 
-This is for testing various levels of headlines.
+### This is for testing various levels of headlines.
 # this is to test my markdown ability——there must be a space between # and what I want to say
 ## 2 #defines what? 
 ### and three
@@ -32,7 +32,8 @@ This is for testing various levels of headlines.
 **山一程**，水一程
 
 <br/></br>
-### This is for testing code
+<p></p>
+### This is for testing code.
 
 #### single line 
 ` print("Hello World") `——with or without spaces do not matter
@@ -45,4 +46,7 @@ for p<101:
     sum i=i+1
 end 
 ```
-<br/>
+
+<br/></br>
+### This is for testing tables.
+
