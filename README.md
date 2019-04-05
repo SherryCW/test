@@ -15,10 +15,12 @@ This is for testing various levels of headlines.
 
 1. test for 1—— wirte the no. directly and put a space as well  
 2. test for 2
-<br/>
+
+<br/></br>
 ### This is for testing citation.
 >山一程，水一程，风雪再一程——no space needed. space stands for a space
-<br/>
+
+<br/></br>
 ### This is for testing fonts.
 
 斜体
@@ -28,7 +30,8 @@ This is for testing various levels of headlines.
 粗体
 
 **山一程**，水一程
-<br/>
+
+<br/></br>
 ### This is for testing code
 
 #### single line 
