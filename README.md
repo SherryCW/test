@@ -32,7 +32,6 @@ this doc is for personal testing only
 **山一程**，水一程
 
 <br/></br>
-<p></p>
 ### This is for testing code.
 
 #### single line 
@@ -49,4 +48,22 @@ end
 
 <br/></br>
 ### This is for testing tables.
+|Who The Fuck|Would Use This|To do a table|
+|------|-------|------|
+|I don not know what to say| | |
+|me neither|||
+Try none
+Try one|
+|Try on in front
+Try one|two|
+Try 4|2|3|4
 
+——must be | in front and | in the end
+<br/></br>
+
+|Who The Fuck|Would Use This|To do a table|
+|------|:-------:|------:|
+|默认左对齐|中间对齐|右对齐|
+
+This is the end. 
+You have done a good job baby.
